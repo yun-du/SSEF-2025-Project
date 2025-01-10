@@ -7,6 +7,8 @@ Included in the results folder are also lightning logs that can be opened via te
 <pre>
 tensorboard --logdir=path/to/lightning/logs
 </pre>
+
+Small dataset of Latin Bass vocals available in dataset folder, used for training Latin model. 
   
 Credits:
 - [DiffSinger colab](https://github.com/MLo7Ghinsan/DiffSinger_colab_notebook_MLo7) for Colab Training notebook
