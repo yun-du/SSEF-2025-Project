@@ -1,5 +1,5 @@
 # SSEF-2025-Project
-This is Github repo for models and additional information about SSEF 2025 paper Singing Voice "Synthesis for Choir Vocals via DiffSinger"
+This is Github repo for samples and additional information about SSEF 2025 paper Singing Voice "Synthesis for Choir Vocals via DiffSinger"
 
 There are 3 models in total (Spanish, Pop English, and Latin)
 Samples of recordings can be found in sample_validation_recordings folder. Both the original (gt) audio recordings and their respective predicted outputs (diff) can be found in each model's. 
